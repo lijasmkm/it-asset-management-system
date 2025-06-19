@@ -58,11 +58,6 @@ The IT Asset Management System is a comprehensive solution designed to effective
 - **Windows:** Double-click the `run.bat` file or use the created shortcuts
 - **Linux/macOS:** In Terminal, activate the virtual environment and run `python run.py`
 
-### Default Login Credentials
-
-- **Username:** admin
-- **Password:** admin123
-
 *Important: Change the default password after first login for security reasons.*
 
 ## Features
