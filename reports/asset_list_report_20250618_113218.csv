@@ -1,0 +1,2 @@
+id,serial_number,company,location,category,status,username,designation,department,model,description,issue_date,computer_id,working_status,condition,audit,employee_id,purchase_date,rack_tray_number,service_center,lpo_number,invoice_number,supplier,estimated_cost,remarks,created_at,updated_at
+1,12345,Steel,Majan,Printer,Attention,user,teest,test,23456,nil,2025-01-06,134b,Damage,Good,aneesh,123,2024-04-05,2345,nil,nil,90324,Ned,2345.0,demo,2025-06-18 10:33:12,2025-06-18 10:33:12
